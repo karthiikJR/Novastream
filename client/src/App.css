@@ -9,3 +9,7 @@
   scroll-behavior: smooth;
   border: 0;
 }
+
+.swiper {
+  width: 5rem;
+}
